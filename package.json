@@ -1,0 +1,16 @@
+{
+  "name": "backendfile",
+  "version": "1.0.0",
+  "description": "practicefile",
+  "main": "App.js",
+  "type": "commonjs",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@shubhasis2024",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
